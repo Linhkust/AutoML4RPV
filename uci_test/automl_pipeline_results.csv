@@ -1,0 +1,2 @@
+Pipeline_ID,RMSE,%RMSE,MAE,%MAE,MAPE,R2,COD,std,rho,ref,Framework,Training time,Optimal features,Number of features,AutoML_Features
+Pipeline_1,6.8418,18.1977%,5.3410,14.2061%,13.9947%,0.6988,14.6519,9.966104,0.8460892437080195,12.467287987369186,FLAML,60.1,['X3 distance to the nearest MRT station'],1,FLAML_1
